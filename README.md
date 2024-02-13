@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there, I'm Carlos 👋
+
+I am a brazilian front-end engineer with three years of experience in software development.
+
+## Networks
+
+- [Linkedin](https://www.linkedin.com/in/carlos-alves-webdev/)
+- [Twitter](https://www.twitter.com/sameoldcarlos)
 
 <!--
 **sameoldcarlos/sameoldcarlos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
