@@ -23,6 +23,8 @@ I am a brazilian front-end engineer who enjoy building awesome user experiences 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameoldcarlos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+#### 🎨 If you want to see more, just visit my [Portfolio](https://carlosalves.netlify.app) 🎨
+
 
 ## 📫 How to reach me
 
