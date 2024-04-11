@@ -1,6 +1,6 @@
 # Hi there, I'm Carlos 👋🏾
 
-I am a brazilian front-end engineer who enjoy building awesome user experiences through web applications. I have been working with web development for about three years.
+I am a brazilian front-end engineer who enjoy building awesome user experiences through web applications. I have been working with web development for about four years.
 
 - 🌱 I’m currently learning Typescript and Node JS
 - ⚡ Fun fact: I am passionate about music and astronomy
