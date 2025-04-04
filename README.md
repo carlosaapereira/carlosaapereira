@@ -1,6 +1,6 @@
 # Hi there, I'm Carlos 👋🏾
 
-I am a brazilian front-end engineer who enjoy building awesome user experiences through web applications. I have been working with web development for about five years.
+I am a brazilian front-end engineer who enjoy building awesome user experiences through web applications. I have been working with web development for about four years.
 
 - 🌱 I’m currently learning Typescript and Node JS
 - ⚡ Fun fact: I am passionate about music and astronomy
@@ -21,7 +21,7 @@ I am a brazilian front-end engineer who enjoy building awesome user experiences 
 ![Git](https://img.shields.io/badge/git-%23323330.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23323330.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sameoldcarlos&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosaapereira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 🎨 If you want to see more, just visit my [Portfolio](https://carlosalves.netlify.app) 🎨
 
